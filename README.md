@@ -2,7 +2,7 @@
 program for scaning port/ports on certan IP network
 
 <h2> WHAT IS IT?</h2>
-basic programm for searching opened or closed ports on IP network
+basic programm for searching opened or closed ports on IP networks
 <hr> 
 <h2>recuirements</h2> 
 pip install termcolors
